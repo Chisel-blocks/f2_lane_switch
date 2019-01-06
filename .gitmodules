@@ -1,3 +1,0 @@
-[submodule "decouple_branch"]
-	path = decouple_branch
-	url = git@bwrcrepo.eecs.berkeley.edu:fader2/chisel/decouple_branch.git
